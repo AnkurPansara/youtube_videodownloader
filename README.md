@@ -12,7 +12,9 @@
 <li>click on audio button for download audio</li>
 </ul>
 
-![Screenshot](downloaded.png)
+<p>
+<img src="https://github.com/Banseedhar01/youtube_videodownloader/blob/main/downloaded.PNG">
+</p>
 
 ## Contributors ✨
 <table>
