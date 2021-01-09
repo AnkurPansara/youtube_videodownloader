@@ -2,7 +2,9 @@
 
 ## Home page 
 
-![Screenshot](home.png)
+<p>
+<img src="https://github.com/Banseedhar01/youtube_videodownloader/blob/main/home.PNG">
+</p>
 
 <ul>
 <li>enter video link </li>
